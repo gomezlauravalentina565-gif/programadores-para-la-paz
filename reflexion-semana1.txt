@@ -1,0 +1,9 @@
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y 
+la organización del trabajo técnico con herramientas como Git?
+La relación principal es que, tanto en internet como en la participación ciudadana
+y en el desarrollo técnico con Git, es fundamental trabajar de manera colaborativa,
+transparente y responsable. Así como un ciudadano debe verificar la información antes de
+difundirla, un desarrollador debe documentar y registrar correctamente sus cambios en Git
+para que otros puedan revisarlos y colaborar eficazmente los tres ámbitos promueven competencias
+digitales como la responsabilidad, la comunicación, la organización y el trabajo en equipo
+,necesarias para construir proyectos y comunidades más confiables y eficientes.
